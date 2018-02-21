@@ -6,6 +6,10 @@
 
 go-xmlsec is a Go binding for XML Security Library (https://www.aleksey.com/xmlsec/index.html)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/xmlsec](https://github.com/lestrrat-go/xmlsec). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 ## Status
 
 * API still unstable.
